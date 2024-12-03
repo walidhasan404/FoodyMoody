@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "food-delivery-f138b",
+    "production": "food-delivery-f138b"
+  },
+  "targets": {},
+  "etags": {}
+}
